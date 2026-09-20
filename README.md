@@ -28,3 +28,18 @@ Helium Browser などの Chromium 派生ブラウザで、DMM TV などを再生
 ```bash
 curl -sSL https://raw.githubusercontent.com/fightplayer/widevine-extractor/main/widevine-extractor.sh | bash
 ```
+
+### 任意の場所に直接配置する場合
+
+引数に配置先のパスを指定できます（`bash -s --` の後ろにパスを記述）。
+
+```bash
+curl -sSL https://raw.githubusercontent.com/fightplayer/widevine-extractor/main/widevine-extractor.sh | bash -s -- /path/to/destination/WidevineCdm
+```
+
+---
+
+## 免責事項 (Disclaimer)
+
+- Widevine は Google LLC の商標です。
+- 本リポジトリは非公式のスクリプトであり、Google のバイナリを直接再配布するものではありません。
