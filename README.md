@@ -1,6 +1,6 @@
 # widevine-extractor
 
-Google Chrome 公式パッケージ（deb）から、DRM再生に必要な Widevine CDM だけをコピーするスクリプトです。
+Google Chrome 公式パッケージ（deb）から、DRM再生に必要な WidevineCdm だけをコピーするスクリプトです。
 
 Helium Browser などの Chromium 派生ブラウザで、DMM TV などを再生可能にする際に便利です。
 
