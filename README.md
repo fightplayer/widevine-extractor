@@ -27,3 +27,4 @@ Helium Browser などの Chromium 派生ブラウザで、DMM TV などを再生
 
 ```bash
 curl -sSL https://raw.githubusercontent.com/fightplayer/widevine-extractor/main/widevine-extractor.sh | bash
+```
